@@ -19,4 +19,4 @@
 
 1. Скачайте этот репозиторий (или клонируйте его через Git):
    ```bash
-   git clone [https://github.com/4v3nux/yt-newness-checker.git](https://github.com/4v3nux/yt-newness-checker.git)
+   git clone https://github.com/4v3nux/yt-newness-checker.git
